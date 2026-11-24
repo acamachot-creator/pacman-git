@@ -16,4 +16,9 @@ Pots jugar a Pac-Man directament des del navegador fent clic aquí:
 
 [Juga a Pac-Man](https://pacmangratis.net/)
 
+
+## Imatge del joc
+
+![Captura de pantalla de Pac-Man](pacman.png)
+
 **Autor:** [Aitor Camacho](https://github.com/acamachot-creator )
