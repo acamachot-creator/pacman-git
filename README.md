@@ -10,4 +10,10 @@ En una entrevista, Iwatani va recordar que, a finals dels anys 70, la majoria de
 
 Pac-Man és un videojoc arcade clàssic en què el jugador controla un personatge que ha de recórrer un laberint menjant-se tots els punts mentre evita els fantasmes. L'objectiu és aconseguir la màxima puntuació possible sense perdre totes les vides.
 
+## Juga a Pac-Man online
+
+Pots jugar a Pac-Man directament des del navegador fent clic aquí:
+
+[Juga a Pac-Man](https://pacmangratis.net/)
+
 **Autor:** [Aitor Camacho](https://github.com/acamachot-creator )
