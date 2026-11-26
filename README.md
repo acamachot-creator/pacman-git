@@ -24,6 +24,11 @@ Pots jugar a Pac-Man directament des del navegador fent clic aquí:
 ## Fantasmas
 
 - [Blinky](blinky.md)
-- 
+- [Pinky](pinky.md)
+- [Inky](inky.md)
+- [Clyde](clyde.md)
+## Fantasmas
+
+
 
 **Autor:** [Aitor Camacho](https://github.com/acamachot-creator )
