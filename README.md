@@ -21,4 +21,9 @@ Pots jugar a Pac-Man directament des del navegador fent clic aquí:
 
 ![Captura de pantalla de Pac-Man](pacman.png)
 
+## Fantasmas
+
+- [Blinky](blinky.md)
+- 
+
 **Autor:** [Aitor Camacho](https://github.com/acamachot-creator )
